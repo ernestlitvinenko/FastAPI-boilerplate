@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy[asyncio]
+asyncpg
+python-camelcaser
+loguru
+pydantic-settings
+pydantic[email]
+alembic
